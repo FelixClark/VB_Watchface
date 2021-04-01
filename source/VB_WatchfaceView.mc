@@ -31,7 +31,6 @@ class VB_WatchfaceView extends WatchUi.WatchFace {
         var timeView = View.findDrawableById("TimeLabel");
         var topRedView = View.findDrawableById("TopRedLabel");
         var bottomRedView = View.findDrawableById("BottomRedLabel");
-        var leftView = View.findDrawableById("LeftLabel");
        	var rightView = View.findDrawableById("RightLabel"); 
        	
         // Get the current time and format it correctly
@@ -63,17 +62,71 @@ class VB_WatchfaceView extends WatchUi.WatchFace {
 		var calories = activityInfo.calories;
 		bottomRedView.setText("S"+steps.toString());
 
-		
-		//Battery		
-		var stats = System.getSystemStats();
-		var pwr = stats.battery;
-		var batStr = Lang.format( "$1$", [ pwr.format( "%2d" ) ] );
-		leftView.setText(batStr);
+		SetBatteryStatus();
+
 		
 		var heartRate = GetHeartRate();
 		rightView.setText(heartRate);
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
+    }
+    
+    function SetBatteryStatus()
+    {
+        var leftView = View.findDrawableById("LeftLabel");
+        var batteryView = View.findDrawableById("BatteryLabel");
+            
+    	//Battery		
+		var stats = System.getSystemStats();
+		var pwr = stats.battery;
+		var charging = stats.charging;
+		var batStr = Lang.format( "$1$", [ pwr.format( "%2d" ) ] );
+		leftView.setText(batStr);
+		
+		if(charging)
+		{
+			batteryView.setText("C");
+		}
+		else if(pwr > 90)
+		{
+			batteryView.setText("F");
+		}
+		else if(pwr > 80)
+		{
+			batteryView.setText("9");
+		}
+		else if(pwr > 70)
+		{
+			batteryView.setText("8");
+		}
+		else if(pwr > 60)
+		{
+			batteryView.setText("7");
+		}
+		else if(pwr > 50)
+		{
+			batteryView.setText("6");
+		}
+		else if(pwr > 40)
+		{
+			batteryView.setText("5");
+		}
+		else if(pwr > 30)
+		{
+			batteryView.setText("4");
+		}
+		else if(pwr > 20)
+		{
+			batteryView.setText("3");
+		}
+		else if(pwr > 10)
+		{
+			batteryView.setText("2");
+		}
+		else
+		{
+			batteryView.setText("1");
+		}
     }
     
     function GetHeartRate() 

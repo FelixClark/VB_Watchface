@@ -1,13 +1,13 @@
 <layout id="WatchFace">
-        <bitmap id="VBLogo" x="center" y="center" filename="../drawables/VB_Small_NoLogo.png" />
-        <bitmap id="BatterySymbol" x="20" y="120" filename="../drawables/Battery.png" />
+        <bitmap id="VBLogo" x="center" y="center" filename="../drawables/VB_280px.png" />
+        <!-- <bitmap id="BatterySymbol" x="20" y="120" filename="../drawables/Battery.png" /> -->
         <bitmap id="HeartSymbol" x="238" y="120" filename="../drawables/Heart.png" />  
-        <!-- <bitmap id="StepSymbol" x="105" y="192" filename="../drawables/Walk16.png" />   -->
         
               
 	    <label id="TimeLabel" x="center" y="105" font="@Fonts.VB_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" />
 	    <label id="TopRedLabel" x="center" y="70" font="Graphics.FONT_GLANCE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
 	    <label id="BottomRedLabel" x="center" y="188" font="@Fonts.Steps_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="BatteryLabel" x="32" y="120" font="@Fonts.Battery_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
 	    <label id="LeftLabel" x="32" y="140" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
 	    <label id="RightLabel" x="250" y="140" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
 </layout>
