@@ -13,7 +13,7 @@ class VB_WatchfaceView extends WatchUi.WatchFace {
 
     // Load your resources here
     function onLayout(dc) 
-    {
+    {      
         setLayout(Rez.Layouts.WatchFace(dc));
     }
 

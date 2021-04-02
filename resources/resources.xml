@@ -1,8 +1,9 @@
 <resources>
     <fonts>
-		<font id="VB_Font" filename="fonts/VB_Font.fnt"/>
+		<font id="VB_Font_52" filename="fonts/VB_Font_52.fnt"/>
+		<font id="VB_Font_64" filename="fonts/VB_Font_64.fnt"/>
+		<font id="VB_Font_72" filename="fonts/VB_Font_72.fnt"/>
 		<font id="Steps_Font" filename="fonts/Steps_Font.fnt"/>
 		<font id="Battery_Font" filename="fonts/Battery_Font.fnt"/>
-		<font id="id_font_black_diamond" filename="fonts/blackdiamond.fnt" filter="0123456789" />
 	</fonts>
 </resources>

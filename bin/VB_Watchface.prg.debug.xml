@@ -82,34 +82,37 @@
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="15" lineNum="14" pc="268436777" symbol="onStop"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="16" lineNum="18" pc="268436782" symbol="getInitialView"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="16" lineNum="19" pc="268436786" symbol="getInitialView"/>
-        <entry filename="Rez" id="22" lineNum="21" pc="268436824" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="22" pc="268436836" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="23" pc="268436877" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="24" pc="268436918" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="26" pc="268436959" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="27" pc="268437078" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="28" pc="268437130" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="29" pc="268437235" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="30" pc="268437358" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="31" pc="268437491" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="32" pc="268437614" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="33" pc="268437737" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="34" pc="268437870" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="36" pc="268438003" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="22" pc="268436824" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="23" pc="268436836" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="24" pc="268436877" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="25" pc="268436918" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="27" pc="268436959" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="28" pc="268437078" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="29" pc="268437130" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="30" pc="268437235" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="31" pc="268437358" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="32" pc="268437491" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="33" pc="268437614" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="34" pc="268437737" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="35" pc="268437870" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="37" pc="268438003" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry field="true" id="14" symbol="HeartSymbol"/>
-        <entry id="22" method="true" symbol="GetHeartRate"/>
+        <entry id="23" method="true" symbol="GetHeartRate"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="20" symbol="AppName"/>
-        <entry field="true" id="18" symbol="Battery_Font"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry field="true" id="20" symbol="Battery_Font"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="18" symbol="VB_Font_72"/>
+        <entry field="true" id="17" symbol="VB_Font_64"/>
         <entry id="10" object="true" symbol="VB_WatchfaceApp"/>
+        <entry field="true" id="16" symbol="VB_Font_52"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -125,13 +128,11 @@
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry id="8389349" symbol="justification"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="16" symbol="VB_Font"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="17" symbol="Steps_Font"/>
-        <entry field="true" id="19" symbol="id_font_black_diamond"/>
+        <entry field="true" id="19" symbol="Steps_Font"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry field="true" id="15" symbol="LauncherIcon"/>
@@ -142,7 +143,7 @@
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="21" method="true" symbol="SetBatteryStatus"/>
+        <entry id="22" method="true" symbol="SetBatteryStatus"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
@@ -187,10 +188,10 @@
         <entry endPc="268438090" name="local_Rez_Fonts_Battery_Font" stackId="4" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_RightLabel" stackId="12" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_bitmap_VBLogo" stackId="5" startPc="268436836"/>
-        <entry endPc="268438090" name="local_Rez_Fonts_Steps_Font" stackId="3" startPc="268436836"/>
+        <entry endPc="268438090" name="local_Rez_Fonts_Steps_Font" stackId="2" startPc="268436836"/>
+        <entry endPc="268438090" name="local_Rez_Fonts_VB_Font_72" stackId="3" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_BottomRedLabel" stackId="9" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_BatteryLabel" stackId="10" startPc="268436836"/>
-        <entry endPc="268438090" name="local_Rez_Fonts_VB_Font" stackId="2" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_TopRedLabel" stackId="8" startPc="268436836"/>
         <entry arg="true" endPc="268438091" name="dc" stackId="1" startPc="268436824"/>
     </localVars>
@@ -201,11 +202,11 @@
         <dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
         <dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
         <dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="378" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="417" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="448" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="487" parentId="globals" symbolId="VB_WatchfaceApp" type="class"/>
-        <dataEntry offset="558" parentId="globals" symbolId="VB_WatchfaceView" type="class"/>
+        <dataEntry offset="386" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="425" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="456" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="495" parentId="globals" symbolId="VB_WatchfaceApp" type="class"/>
+        <dataEntry offset="566" parentId="globals" symbolId="VB_WatchfaceView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="VB_WatchfaceView">
