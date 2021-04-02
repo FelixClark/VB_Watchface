@@ -185,13 +185,13 @@
         <entry endPc="268438090" name="rez_cmp_local_bitmap_HeartSymbol" stackId="6" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_TimeLabel" stackId="7" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_LeftLabel" stackId="11" startPc="268436836"/>
-        <entry endPc="268438090" name="local_Rez_Fonts_Battery_Font" stackId="4" startPc="268436836"/>
+        <entry endPc="268438090" name="local_Rez_Fonts_Battery_Font" stackId="3" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_RightLabel" stackId="12" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_bitmap_VBLogo" stackId="5" startPc="268436836"/>
         <entry endPc="268438090" name="local_Rez_Fonts_Steps_Font" stackId="2" startPc="268436836"/>
-        <entry endPc="268438090" name="local_Rez_Fonts_VB_Font_72" stackId="3" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_BottomRedLabel" stackId="9" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_BatteryLabel" stackId="10" startPc="268436836"/>
+        <entry endPc="268438090" name="local_Rez_Fonts_VB_Font_64" stackId="4" startPc="268436836"/>
         <entry endPc="268438090" name="rez_cmp_local_text_TopRedLabel" stackId="8" startPc="268436836"/>
         <entry arg="true" endPc="268438091" name="dc" stackId="1" startPc="268436824"/>
     </localVars>
