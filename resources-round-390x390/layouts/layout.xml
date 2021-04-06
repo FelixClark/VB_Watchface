@@ -1,0 +1,12 @@
+<layout id="WatchFace">
+        <bitmap id="VBLogo" x="center" y="center" filename="../../resources/drawables/VB_390px.png" />
+        <!-- <bitmap id="BatterySymbol" x="20" y="120" filename="../drawables/Battery.png" /> -->
+        <bitmap id="HeartSymbol" x="338" y="175" filename="../../resources/drawables/heart.png" />  
+                 
+	    <label id="TimeLabel" x="center" y="148" font="@Fonts.VB_Font_72" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" />
+	    <label id="TopRedLabel" x="center" y="95" font="Graphics.FONT_GLANCE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="BottomRedLabel" x="center" y="267" font="@Fonts.Steps_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="BatteryLabel" x="45" y="175" font="@Fonts.Battery_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="LeftLabel" x="45" y="195" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="RightLabel" x="350" y="195" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+</layout>
