@@ -79,7 +79,12 @@ class VB_WatchfaceView extends WatchUi.WatchFace {
     	//Battery		
 		var stats = System.getSystemStats();
 		var pwr = stats.battery;
-		var charging = stats.charging;
+		var charging = false;
+		if(stats has :charging)
+		{
+			charging = stats.charging;
+		}
+
 		var batStr = Lang.format( "$1$", [ pwr.format( "%2d" ) ] );
 		leftView.setText(batStr);
 		

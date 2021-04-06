@@ -1,5 +1,6 @@
 <resources>
     <fonts>
+    	<font id="VB_Font_42" filename="fonts/VB_Font_42.fnt"/>
 		<font id="VB_Font_52" filename="fonts/VB_Font_52.fnt"/>
 		<font id="VB_Font_64" filename="fonts/VB_Font_64.fnt"/>
 		<font id="VB_Font_72" filename="fonts/VB_Font_72.fnt"/>
