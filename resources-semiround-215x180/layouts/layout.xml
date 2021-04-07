@@ -1,13 +1,13 @@
 <layout id="WatchFace">
-        <bitmap id="VBLogo" x="center" y="center" filename="../../resources/drawables/VB_180px.png" />
+        <bitmap id="VBLogo" x="center" y="center" filename="../../resources/drawables/VB_215px.png" />
         <!-- <bitmap id="BatterySymbol" x="20" y="120" filename="../drawables/Battery.png" /> -->
-        <bitmap id="HeartSymbol" x="167" y="80" filename="../../resources/drawables/heart.png" />  
+        <bitmap id="HeartSymbol" x="175" y="80" filename="../../resources/drawables/heart.png" />  
         
               
 	    <label id="TimeLabel" x="center" y="69" font="@Fonts.VB_Font_42" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" />
-	    <label id="TopRedLabel" x="center" y="40" font="Graphics.FONT_GLANCE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-	    <label id="BottomRedLabel" x="center" y="117" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-	    <label id="BatteryLabel" x="36" y="80" font="@Fonts.Battery_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-	    <label id="LeftLabel" x="36" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-	    <label id="RightLabel" x="180" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="TopRedLabel" x="center" y="40" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="BottomRedLabel" x="center" y="117" font="@Fonts.Steps_Font_Small" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="BatteryLabel" x="29" y="80" font="@Fonts.Battery_Font" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="LeftLabel" x="29" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+	    <label id="RightLabel" x="187" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
 </layout>

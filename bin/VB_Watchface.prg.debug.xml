@@ -30,84 +30,85 @@
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="61" pc="268435994" symbol="onUpdate"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="62" pc="268436004" symbol="onUpdate"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="63" pc="268436014" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="65" pc="268436043" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="68" pc="268436055" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="69" pc="268436068" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="71" pc="268436082" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="74" pc="268436103" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="76" pc="268436107" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="77" pc="268436131" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="80" pc="268436155" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="81" pc="268436172" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="82" pc="268436182" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="83" pc="268436186" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="85" pc="268436197" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="88" pc="268436210" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="89" pc="268436262" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="91" pc="268436276" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="93" pc="268436281" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="95" pc="268436301" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="97" pc="268436312" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="99" pc="268436332" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="101" pc="268436343" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="103" pc="268436363" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="105" pc="268436374" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="107" pc="268436394" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="109" pc="268436405" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="111" pc="268436425" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="113" pc="268436436" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="115" pc="268436456" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="117" pc="268436467" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="119" pc="268436487" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="121" pc="268436498" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="123" pc="268436518" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="125" pc="268436529" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="127" pc="268436549" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="129" pc="268436560" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="133" pc="268436580" symbol="SetBatteryStatus"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="137" pc="268436598" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="139" pc="268436602" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="140" pc="268436609" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="141" pc="268436634" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="143" pc="268436641" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="147" pc="268436657" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="148" pc="268436683" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="149" pc="268436702" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="151" pc="268436732" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="154" pc="268436748" symbol="GetHeartRate"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="9" lineNum="160" pc="268436752" symbol="onHide"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="10" lineNum="166" pc="268436757" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="11" lineNum="172" pc="268436762" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="64" pc="268436043" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="67" pc="268436055" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="68" pc="268436068" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="6" lineNum="70" pc="268436082" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="73" pc="268436103" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="75" pc="268436107" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="76" pc="268436131" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="79" pc="268436155" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="80" pc="268436172" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="81" pc="268436182" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="82" pc="268436186" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="84" pc="268436197" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="87" pc="268436210" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="88" pc="268436262" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="90" pc="268436276" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="92" pc="268436281" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="94" pc="268436301" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="96" pc="268436312" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="98" pc="268436332" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="100" pc="268436343" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="102" pc="268436363" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="104" pc="268436374" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="106" pc="268436394" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="108" pc="268436405" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="110" pc="268436425" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="112" pc="268436436" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="114" pc="268436456" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="116" pc="268436467" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="118" pc="268436487" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="120" pc="268436498" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="122" pc="268436518" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="124" pc="268436529" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="126" pc="268436549" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="128" pc="268436560" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="7" lineNum="132" pc="268436580" symbol="SetBatteryStatus"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="136" pc="268436598" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="138" pc="268436602" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="139" pc="268436609" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="140" pc="268436634" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="142" pc="268436641" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="146" pc="268436657" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="147" pc="268436683" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="148" pc="268436702" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="150" pc="268436732" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="8" lineNum="153" pc="268436748" symbol="GetHeartRate"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="9" lineNum="159" pc="268436752" symbol="onHide"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="10" lineNum="165" pc="268436757" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceView.mc" id="11" lineNum="171" pc="268436762" symbol="onEnterSleep"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="13" lineNum="5" pc="268436767" symbol="initialize"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="13" lineNum="6" pc="268436771" symbol="initialize"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="14" lineNum="10" pc="268436790" symbol="onStart"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="15" lineNum="14" pc="268436795" symbol="onStop"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="16" lineNum="18" pc="268436800" symbol="getInitialView"/>
         <entry filename="C:\\Users\\felix\\eclipse-workspace\\VB_Watchface\\source\\VB_WatchfaceApp.mc" id="16" lineNum="19" pc="268436804" symbol="getInitialView"/>
-        <entry filename="Rez" id="22" lineNum="23" pc="268436842" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="24" pc="268436854" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="25" pc="268436895" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="24" pc="268436842" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="25" pc="268436854" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="26" pc="268436895" symbol="WatchFace"/>
         <entry filename="Rez" id="22" lineNum="27" pc="268436936" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="28" pc="268437055" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="29" pc="268437107" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="30" pc="268437212" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="31" pc="268437335" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="32" pc="268437468" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="33" pc="268437601" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="34" pc="268437724" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="35" pc="268437857" symbol="WatchFace"/>
-        <entry filename="Rez" id="22" lineNum="37" pc="268437990" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="29" pc="268436977" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="30" pc="268437096" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="31" pc="268437148" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="32" pc="268437253" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="33" pc="268437376" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="34" pc="268437509" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="35" pc="268437632" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="36" pc="268437755" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="37" pc="268437888" symbol="WatchFace"/>
+        <entry filename="Rez" id="22" lineNum="39" pc="268438021" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry field="true" id="14" symbol="HeartSymbol"/>
-        <entry id="24" method="true" symbol="GetHeartRate"/>
+        <entry id="25" method="true" symbol="GetHeartRate"/>
         <entry field="true" id="8390461" symbol="charging"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="22" symbol="AppName"/>
-        <entry field="true" id="21" symbol="Battery_Font"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry field="true" id="22" symbol="Battery_Font"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8389345" symbol="rezId"/>
@@ -134,6 +135,7 @@
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="21" symbol="Steps_Font_Small"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry field="true" id="20" symbol="Steps_Font"/>
         <entry id="8388640" module="true" symbol="Lang"/>
@@ -146,7 +148,7 @@
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="23" method="true" symbol="SetBatteryStatus"/>
+        <entry id="24" method="true" symbol="SetBatteryStatus"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
@@ -185,17 +187,18 @@
         <entry endPc="268436751" name="hr" stackId="2" startPc="268436602"/>
         <entry arg="true" endPc="268436795" name="state" stackId="1" startPc="268436790"/>
         <entry arg="true" endPc="268436800" name="state" stackId="1" startPc="268436795"/>
-        <entry endPc="268438077" name="rez_cmp_local_bitmap_HeartSymbol" stackId="5" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_TimeLabel" stackId="6" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_LeftLabel" stackId="10" startPc="268436854"/>
-        <entry endPc="268438077" name="local_Rez_Fonts_Battery_Font" stackId="2" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_RightLabel" stackId="11" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_bitmap_VBLogo" stackId="4" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_BottomRedLabel" stackId="8" startPc="268436854"/>
-        <entry endPc="268438077" name="local_Rez_Fonts_VB_Font_42" stackId="3" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_BatteryLabel" stackId="9" startPc="268436854"/>
-        <entry endPc="268438077" name="rez_cmp_local_text_TopRedLabel" stackId="7" startPc="268436854"/>
-        <entry arg="true" endPc="268438078" name="dc" stackId="1" startPc="268436842"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_HeartSymbol" stackId="6" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_TimeLabel" stackId="7" startPc="268436854"/>
+        <entry endPc="268438108" name="local_Rez_Fonts_Steps_Font_Small" stackId="2" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_LeftLabel" stackId="11" startPc="268436854"/>
+        <entry endPc="268438108" name="local_Rez_Fonts_Battery_Font" stackId="3" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_RightLabel" stackId="12" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_VBLogo" stackId="5" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_BottomRedLabel" stackId="9" startPc="268436854"/>
+        <entry endPc="268438108" name="local_Rez_Fonts_VB_Font_42" stackId="4" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_BatteryLabel" stackId="10" startPc="268436854"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_TopRedLabel" stackId="8" startPc="268436854"/>
+        <entry arg="true" endPc="268438109" name="dc" stackId="1" startPc="268436842"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
@@ -204,11 +207,11 @@
         <dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
         <dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
         <dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="394" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="464" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="503" parentId="globals" symbolId="VB_WatchfaceApp" type="class"/>
-        <dataEntry offset="574" parentId="globals" symbolId="VB_WatchfaceView" type="class"/>
+        <dataEntry offset="402" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="441" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="472" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="511" parentId="globals" symbolId="VB_WatchfaceApp" type="class"/>
+        <dataEntry offset="582" parentId="globals" symbolId="VB_WatchfaceView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="VB_WatchfaceView">

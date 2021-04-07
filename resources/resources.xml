@@ -5,6 +5,7 @@
 		<font id="VB_Font_64" filename="fonts/VB_Font_64.fnt"/>
 		<font id="VB_Font_72" filename="fonts/VB_Font_72.fnt"/>
 		<font id="Steps_Font" filename="fonts/Steps_Font.fnt"/>
+		<font id="Steps_Font_Small" filename="fonts/Steps_Font_Small.fnt"/>
 		<font id="Battery_Font" filename="fonts/Battery_Font.fnt"/>
 	</fonts>
 	

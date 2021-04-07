@@ -61,7 +61,6 @@ class VB_WatchfaceView extends WatchUi.WatchFace {
 		var steps = activityInfo.steps;
 		var calories = activityInfo.calories;
 		bottomRedView.setText("S"+steps.toString());
-
 		SetBatteryStatus();
 
 		
